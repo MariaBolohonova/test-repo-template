@@ -1,0 +1,27 @@
+# Lines starting with '#' are comments.
+# Each line is a file pattern followed by one or more owners.
+
+/ce/admin/                                    @KumarVivek
+/ce/admin/readme-9.md                         @ReneeW-CPub @almostdunh
+/ce/common-scheduler/	                        @m-hartmann
+/ce/customer-service/                         @shubhadaj
+/ce/customerengagement/on-premises/analytics/ @Mattp123
+/ce/customerengagement/on-premises/customize/ @Mattp123
+/ce/customerengagement/on-premises/developer/	@KumarVivek @phecke
+/ce/field-service/	                          @m-hartmann
+/ce/guidance/	                                @KumarVivek @phecke	
+/ce/insights-insideview/                      @shubhadaj
+/ce/legal/	                                  @ReneeW-CPub
+/ce/linkedin/	                                @shubhadaj
+/ce/marketing/	                              @shellyhaverkamp
+/ce/marketing/developer/                      @KumarVivek @Nkrb
+/ce/mobile-app/	                              @mduelae @KumarVivek
+/ce/outlook-addin/	                          @mduelae @KumarVivek
+/ce/outlook-app/	                            @mduelae @KumarVivek
+/ce/sales/	                                  @shubhadaj
+/ce/snippets/	                                @Nkrb @KumarVivek @phecke
+/ce/social-engagement/	                      @shellyhaverkamp
+/ce/teams-integration/	                      @shubhadaj
+/ce/unified-service-desk/	                    @shubhadaj
+/ce/versium-predict/	                        @shubhadaj
+/ce/voice-of-customer/	                      @shubhadaj

@@ -1,0 +1,12 @@
+log/
+obj/
+_site/
+.optemp/
+_themes*/
+.vs/
+.vscode/
+CODEOWNERS
+
+.openpublishing.buildcore.ps1
+.DS_Store
+ce/sales/media/viva-sales-outlook-more-actions.png

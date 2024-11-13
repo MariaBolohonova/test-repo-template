@@ -1,0 +1,18 @@
+- name: Overview
+  href: overview.md
+- name: Administrator basics
+  items:
+  - name: What's supported
+    href: support-phones-tablets.md
+  - name: Set up mobile app
+    href: set-up-dynamics-365-for-phones-and-dynamics-365-for-tablets.md
+- name: Install the mobile app
+  items:
+  - name: Install Dynamics 365 for phones and tablets
+    href: install-dynamics-365-for-phones-and-tablets.md
+- name: Troubleshoot
+  items:
+  - name: Get session ID and logs to help troubleshoot your issue
+    href: logs-session-id.md
+  - name: Common issues and resolutions
+    href: troubleshooting-things-know-about-phones-tablets.md

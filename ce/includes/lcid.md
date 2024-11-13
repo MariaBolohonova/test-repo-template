@@ -1,0 +1,1 @@
+Valid locale ID values can be found at [Locale ID (LCID) Chart](/previous-versions/windows/embedded/ms912047(v=winembedded.10)).
